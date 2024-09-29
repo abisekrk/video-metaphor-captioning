@@ -1,7 +1,7 @@
 
 <p align="center"><img src="cfilt-dark-vec.png" alt="logo" width="150" height="150"/></p>
 
-# “Unveiling the Invisible: Captioning Videos with Metaphors
+# Unveiling the Invisible: Captioning Videos with Metaphors
 
 <p align="center">
         <a href="https://arxiv.org/abs/2406.04886">Paper </a>&nbsp ｜ <a href="https://huggingface.co/abisekrk/git-llava-13B"> GIT-LLaVA </a>&nbsp | <a href="https://huggingface.co/abisekrk/git-llava-x-13B"> GIT-LLaVA-X </a>
